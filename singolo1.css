@@ -47,22 +47,20 @@ header {
 }
 
 .menu {
-  
   height: 89px;
   width: 70%;
+
   font-size: 12px;
   line-height: 89px;
   letter-spacing: normal;
 }
 
 .menu a {
-  
   color: #ffffff;
   text-decoration: none;
 }
 
 .menu a:hover {
-  text-decoration: underline;
   color: #f06c64;
 }
 
@@ -124,7 +122,7 @@ header {
   opacity: 0.4;
 }
 
-.iphone-v {
+.iphone-q {
   position: absolute;
   top: 53px;
   left: 112px;
@@ -135,7 +133,7 @@ header {
   background-image: url(assets/iPhone%20Vertical.png);
 }
 
-.iphone-h {
+.iphone-w {
   position: absolute;
   top: 174px;
   left: 425px;
